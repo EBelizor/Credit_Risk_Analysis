@@ -9,8 +9,43 @@ The use of Machine learning to predict credit risk allows financial insitutions 
 ## Results
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+### Scores By Model
 
+#### Oversampling
 
+1. Naive Random Oversampling
+ - Balanced Accuracy Score: 
+ - Precision Score: 
+ - Recall Score:
+
+2. Smote Oversampling
+ - Balanced Accuracy Score: 
+ - Precision Score: 
+ - Recall Score:
+
+#### Undersampling
+
+3. ClusterCentroids
+ - Balanced Accuracy Score: 
+ - Precision Score: 
+ - Recall Score:
+
+#### Over-and-Under Sampling
+4. SMOOTEENN
+ - Balanced Accuracy Score: 
+ - Precision Score: 
+ - Recall Score:
+
+#### Ensemble Classifiers
+5. BalancedRandomForestClassifier
+ - Balanced Accuracy Score: 
+ - Precision Score: 
+ - Recall Score:
+
+6. EasyEnsembleClassifier
+ - Balanced Accuracy Score: 
+ - Precision Score: 
+ - Recall Score:
 
 ## Summary
 
