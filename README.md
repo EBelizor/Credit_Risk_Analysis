@@ -31,7 +31,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
     - Balanced Accuracy Score: .509
     - Precision Score: High = .01
     - Recall Score: High = .57
-![](Resources/clustercentroids.png)
+![](Resources/ClusterCentroids.png)
 
 #### Over-and-Under Sampling
 4. SMOOTEENN
