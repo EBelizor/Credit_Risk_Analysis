@@ -14,38 +14,44 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 #### Oversampling
 
 1. Naive Random Oversampling
- - Balanced Accuracy Score: 
- - Precision Score: 
- - Recall Score:
+    - Balanced Accuracy Score: .645
+    - Precision Score: High = .01
+    - Recall Score: High - .61
+![](Resources/Naive_over.png)
 
 2. Smote Oversampling
- - Balanced Accuracy Score: 
- - Precision Score: 
- - Recall Score:
+    - Balanced Accuracy Score: .62
+    - Precision Score: High = .01
+    - Recall Score: High = .61
+![](Resources/smote_over.png)
 
 #### Undersampling
 
 3. ClusterCentroids
- - Balanced Accuracy Score: 
- - Precision Score: 
- - Recall Score:
+    - Balanced Accuracy Score: .509
+    - Precision Score: High = .01
+    - Recall Score: High = .57
+![](Resources/clustercentroids.png)
 
 #### Over-and-Under Sampling
 4. SMOOTEENN
- - Balanced Accuracy Score: 
- - Precision Score: 
- - Recall Score:
+    - Balanced Accuracy Score: .616
+    - Precision Score: High = .01
+    - Recall Score: High = .69, Low = .54
+![](Resources/over_under.png)
 
 #### Ensemble Classifiers
 5. BalancedRandomForestClassifier
- - Balanced Accuracy Score: 
- - Precision Score: 
- - Recall Score:
+    - Balanced Accuracy Score: .787
+    - Precision Score: High = .04
+    - Recall Score: High = .67, Low = .91
+![](Resources/BalancedRandomForest.png)
 
 6. EasyEnsembleClassifier
- - Balanced Accuracy Score: 
- - Precision Score: 
- - Recall Score:
+    - Balanced Accuracy Score: .925
+    - Precision Score: High = .07
+    - Recall Score: High = .91, Low = .94
+![](Resources/EasyEnsemble.png)
 
 ## Summary
 
